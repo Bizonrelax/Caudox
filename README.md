@@ -22,6 +22,16 @@ This project is licensed under **The Unlicense** — dedicated to the public dom
 © 2026 Bizonrelax (Ti). Created during a peaceful creative vacation.
 
 
+## Repository Name Etymology
+
+The name **Caudox** is an original synthetic term derived from two conceptual components:
+1. **Cauda** (Latin for *tail*) — A symbolic reference to the visual representation of vectors on a coordinate grid, mimicking a "tail," as well as a tribute to a playful companion (the family cat).
+2. **-ox** — A sharp, aggressive suffix combined with **audacia** (Latin for *boldness, audacity*), reflecting a rebellious, self-determined approach to developing alternative mathematical models outside classical academic conventions.
+
+Literally, **Caudox** can be interpreted as a **"Bold Tail"** (Russian: *Наглый хвост*), serving as both a technical metaphor and a personal marker for the project.
+
+
+
 ___
 ___
 ___
@@ -47,4 +57,15 @@ Experimental framework for geometric positional number systems and Covirtual Spa
 
 ---
 © 2026 Bizonrelax (Ти). Разработано в условиях творческого отпуска.
+
+
+
+## Этимология названия репозитория
+
+Название **Caudox** (**Каудокс**) представляет собой авторский синтетический термин, образованный от двух смысловых компонентов:
+1. **Cauda** (латынь: *хвост*) — символическая отсылка к графическому отображению векторов на координатной сетке, напоминающих «хвост», а также дань уважения домашнему любимцу (домашнему коту).
+2. **-ox** — резкий, дерзкий суффикс, несущий в себе корень слова **audacia** (латынь: *наглость, дерзость*). Это отражает бунтарский, независимый подход к разработке альтернативных математических моделей вопреки классическим академическим шаблонам.
+
+Дословно **Caudox** можно перевести как **«Наглый хвост»**, что одновременно служит и технической метафорой векторных смещений, и личным авторским маркером проекта.
+
 
